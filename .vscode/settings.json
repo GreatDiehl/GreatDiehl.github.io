@@ -1,2 +1,7 @@
 {
+    "editor.fontFamily": "Fira Code iScript",
+    "editor.fontWeight": 400,
+    "editor.mouseWheelZoom": true,
+    "editor.tokenColorCustomizations": null
+
 }
